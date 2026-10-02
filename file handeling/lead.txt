@@ -1,0 +1,1 @@
+Automation ka main kaam kya hota hai? Data ko ek jagah se uthana, process karna, aur dusri jagah save karna. (Jaise hazaro emails nikalna, ya excel sheets ko automatically update karna).
